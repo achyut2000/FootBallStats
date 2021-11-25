@@ -1,0 +1,16 @@
+{
+    "name": "footballstats",
+    "version": "1.0.1",
+    "description": "NPM Package for Football fans",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "MIT",
+    "type": "module",
+    "dependencies": {
+        "axios": "^0.24.0",
+        "user": "0.0.0"
+    }
+}
